@@ -28,7 +28,7 @@ scoreRightWrist = 0;
 game_status="";
 
  function preload(){
-  touchball=loadSound("ball_touch_paddle.wav");
+  touchball=loadSound("ball_touch_paddel.wav");
   missed=loadSound("missed.wav");
 
  }
